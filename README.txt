@@ -1,3 +1,8 @@
+GATE ARRAY CHIP SIMULATOR
+Written by Jose M Flores
+
+This program was created as a project for my COSC 321 class at Eastern Michigan University. It takes user input consisting of connections between a set number of inputs, NOR gates on a simulated chip, and outputs. It will then calculate a table listing all possible combinations of those inputs and their respective outputs.
+
 HOW TO GENERATE YOUR OWN WIRING LIST
 The format goes as so:
 [LHS]>[RHS]
